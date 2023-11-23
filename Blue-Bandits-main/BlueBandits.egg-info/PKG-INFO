@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: BlueBandits
+Version: 0.1.0
+Summary: An MAB python package for computing Next-Best-Actions and many other text features.
+Home-page: https://github.com/YashIITM/Blue-Bandits
+Author: Yash Kumar Singh Jha
+Author-email: ae19b016@smail.iitm.ac.in
+Keywords: Multi Armed Bandits,Data Science,Bandits,LinUCB,LinUCBVI,NeuralUCB
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+NBA using Contextual MABs
+will update more...
+
+
+# CHANGELOG
+
+## Version 0.1.0 06/11/2023
+1. Launched BlueBandits
+

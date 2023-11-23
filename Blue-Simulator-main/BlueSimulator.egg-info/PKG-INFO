@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: BlueSimulator
+Version: 0.1.0
+Summary: An MAB python package for computing environment for Next-Best-Actions and many other text features.
+Home-page: https://github.com/YashIITM/Blue-Simulator
+Author: Yash Kumar Singh Jha
+Author-email: ae19b016@smail.iitm.ac.in
+Keywords: Multi Armed Bandits,Data Science,Bandits,LinUCB,LinUCBVI,NeuralUCB
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Blue-Simulator
+Simulator for the enviroment generation in various contextual-MAB based applications of algorithms. Works complementary with Blue Bandits
+
+
+CHANGELOG
+Version 0.1.0 06/18/2023
+
+    Launched BlueSimulator
